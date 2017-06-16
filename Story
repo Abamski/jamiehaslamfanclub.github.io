@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Jamie Haslam</title>
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+<style>
+    body {
+      animation: colorchange 50s infinite; /* animation-name followed by duration in seconds*/
+         /* you could also use milliseconds (ms) or something like 2.5s */
+      -webkit-animation: colorchange 50s infinite; /* Chrome and Safari */
+	cursor:url('cursorjamie.jpg');
+    }
+    @keyframes colorchange
+    {
+      0%   {background: red;}
+      25%  {background: yellow;}
+      50%  {background: blue;}
+      75%  {background: green;}
+      100% {background: red;}
+    }
+    @-webkit-keyframes colorchange /* Safari and Chrome - necessary duplicate */
+    {
+      0%   {background: red;}
+      25%  {background: yellow;}
+      50%  {background: blue;}
+      75%  {background: green;}
+      100% {background: red;}
+    }
+</style>
+</head>
+<body>
+<center>
+<head>
+Moist Nathan by Jamie90001
+</head>
+<p>Jamie Haslam is a Moist, Slimy and witty Tory from Baaaaaath.His life is <br>going nowhere until he meets Nathan DG, a slim, Crusty man with a <br>passion for books.<br>Jamie takes an instant disliking to Nathan and the Crusty and predatory <br>ways he learnt during his years in up North.<br>However, when a Reynolds tries to lick Jamie, Nathan springs to the <br>rescue. Jamie begins to notices that Nathan is actually rather loving at <br>heart.<br></p>
+</center>
+</body>
+
+<img src="http://hitwebcounter.com/counter/counter.php?page=6673781&style=0014&nbdigits=5&type=page&initCount=0" title="www.hitwebcounter.com" Alt="www.hitwebcounter.com"   border="0" >
+                                        <br/>
+
+<footer style="position:absolute; bottom:0; width:100%;"><center>Copyright Jamie Haslam Fan Club<br>Version 0.4.1</center></footer>
+</html>
